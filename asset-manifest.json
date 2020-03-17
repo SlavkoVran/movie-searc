@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-searc/static/css/main.ca8d729c.chunk.css",
+    "main.js": "/movie-searc/static/js/main.dcdacd0e.chunk.js",
+    "main.js.map": "/movie-searc/static/js/main.dcdacd0e.chunk.js.map",
+    "runtime-main.js": "/movie-searc/static/js/runtime-main.47edbc66.js",
+    "runtime-main.js.map": "/movie-searc/static/js/runtime-main.47edbc66.js.map",
+    "static/js/2.d8bb3851.chunk.js": "/movie-searc/static/js/2.d8bb3851.chunk.js",
+    "static/js/2.d8bb3851.chunk.js.map": "/movie-searc/static/js/2.d8bb3851.chunk.js.map",
+    "index.html": "/movie-searc/index.html",
+    "precache-manifest.ec285e3cf4ed6f7c3bd09d97f6d7569f.js": "/movie-searc/precache-manifest.ec285e3cf4ed6f7c3bd09d97f6d7569f.js",
+    "service-worker.js": "/movie-searc/service-worker.js",
+    "static/css/main.ca8d729c.chunk.css.map": "/movie-searc/static/css/main.ca8d729c.chunk.css.map",
+    "static/js/2.d8bb3851.chunk.js.LICENSE.txt": "/movie-searc/static/js/2.d8bb3851.chunk.js.LICENSE.txt",
+    "static/media/831.gif": "/movie-searc/static/media/831.7ac3ff31.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47edbc66.js",
+    "static/js/2.d8bb3851.chunk.js",
+    "static/css/main.ca8d729c.chunk.css",
+    "static/js/main.dcdacd0e.chunk.js"
+  ]
+}
